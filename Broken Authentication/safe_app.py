@@ -18,9 +18,9 @@ app.secret_key = 'shenkar2024'
 
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-SMTP_USERNAME = 'a2g15test@gmail.com'  
-SMTP_PASSWORD = 'lkuihpbhcozqfhwe'         
-FROM_EMAIL = 'a2g15test@gmail.com'     
+SMTP_USERNAME = '*****'  
+SMTP_PASSWORD = '******'         
+FROM_EMAIL = '******'     
 
 # DB storage for demonstration purpose
 users = {
